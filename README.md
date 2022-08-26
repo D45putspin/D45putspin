@@ -1,10 +1,9 @@
 
-<h2 align="center"> Hi, I'm D45Putspin 👋 <br/> </h2> 
-
-<p align="center"><img width=50% src="https://i.ibb.co/GkzLVQf/github.png"></p>
+<h2 align="center"> Hi 👋 <br/> </h2> 
 
 
-<p align="center"> <samp>My name is D45Putspin.I'm a Back-end Developer.
+
+<p align="center"> <samp>My name is Tiago.I'm a Back-end Developer.
   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D45Putspin&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
