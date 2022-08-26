@@ -5,7 +5,7 @@
 
 <p align="center"> <samp>My name is Tiago.I'm a Back-end Developer.
   
-  this github is personal has all kind of stuff, more serious projects are private
+  <p align="center">this github is personal has all kind of stuff, more serious projects are private
   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D45Putspin&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
