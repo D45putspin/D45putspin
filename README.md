@@ -1,10 +1,6 @@
 
 <h2 align="center"> Hi 👋 <br/> </h2> 
 
-
-
-<p align="center"> <samp>My name is Tiago.I'm a Back-end Developer.
-<p align="center">this github is personal has all kind of stuff, more serious projects are private
   
 ![](https://komarev.com/ghpvc/?username=D45putspin&style=flat-square)
 <br>
